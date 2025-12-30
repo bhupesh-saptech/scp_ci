@@ -2,7 +2,7 @@
 
 use CodeIgniter\Boot;
 use Config\Paths;
-
+/*--*/
 /*
  *---------------------------------------------------------------
  * CHECK PHP VERSION
